@@ -165,9 +165,9 @@ This project was developed as part of my internship learning experience to stren
 
 **Vishakha Shukla**
 
-GitHub: Add your GitHub profile URL here.
+GitHub:https://github.com/shuklavishakha048-commits/basicpython
 
-LinkedIn: Add your LinkedIn profile URL here.
+LinkedIn: www.linkedin.com/in/vishakha-shukla-7b6133368
 
 ---
 If you find this project useful, feel free to explore the repository and share your feedback!
